@@ -560,6 +560,8 @@ ul.simplefilter {
 /* Services */
 div#service {
     padding: 5% 0px;
+    background-color: black;
+    color: white;
 }
 .my-service {
     display: flex;
@@ -617,7 +619,7 @@ div#service {
 /* contact */
 .w3-contact {
     padding: 5% 0px 0px;
-	background-color: #f1e8e8;
+	background-color: #808080;
 }
 .sect2 {
     margin-bottom: 3%;
@@ -695,13 +697,13 @@ input[type="text"]:focus, input[type="email"]:focus {
 	    background-color: white;
 }
 .footer {
-    background-color: #3a3a44;
+    background-color: #000000;
     color: white;
     padding: 2% 0px;
 }
 .footer ul li a {
     color: white;
-	    padding: 0 10px;
+	padding: 0 10px;
 }
 ul.list, ul.list-icons {
     display: flex;
